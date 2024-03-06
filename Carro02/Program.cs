@@ -22,9 +22,15 @@ namespace Carro02
             this.velocidade--;
         }
 
-        public Carro()
+        public Carro() //Aqui estou criando uma instancia toda vez que faço um new ele passa por aqui.
+            //deve ter o mesmo nome da class
+            //importante para definir os valores padrões do seu objeto
         {
-
+            this.potencia = 1.6;
+            this.numeroDePortas = 2;
+            this.cor = string.Empty;
+            this.nome = "ferrari";
+            this.velocidade = 0;
         }
     }
 
@@ -32,9 +38,25 @@ namespace Carro02
     {
         static void Main(string[] args)
         {
-            Carro carro = new Carro();
-            carro.potencia = 10;
+            //ferrari => variável => objeto (recebe um endereço de memória - heap)
+            Carro ferrari = new Carro(); //new é uma palavra reservada do c# para invocar o método construtor
+            ferrari.potencia = 10; 
 
+            Carro carro1 = new Carro();
+            Carro carro2 = new Carro();
+            Carro carro3 = new Carro();
+
+            List < Carro > carros = new List<Carro>();
+
+            for(int i = 0; i< 5; i++ )
+            {
+                Carro carro = new Carro();
+                carros.Add(carro);
+            }
+
+            ferrari.nome = "Ferrari do zequinha";
+
+            carros[2].nome = "fusca";
         }
     }
 }
