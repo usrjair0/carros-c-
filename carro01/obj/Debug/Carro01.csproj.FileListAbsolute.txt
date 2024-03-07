@@ -1,0 +1,8 @@
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Estruturas-Classes\Carro01\bin\Debug\Carro01.exe.config
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Estruturas-Classes\Carro01\bin\Debug\Carro01.exe
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Estruturas-Classes\Carro01\bin\Debug\Carro01.pdb
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Estruturas-Classes\Carro01\obj\Debug\Carro01.csproj.AssemblyReference.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Estruturas-Classes\Carro01\obj\Debug\Carro01.csproj.SuggestedBindingRedirects.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Estruturas-Classes\Carro01\obj\Debug\Carro01.csproj.CoreCompileInputs.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Estruturas-Classes\Carro01\obj\Debug\Carro01.exe
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Estruturas-Classes\Carro01\obj\Debug\Carro01.pdb

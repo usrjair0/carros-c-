@@ -8,35 +8,8 @@ namespace porta
 {
     internal class Program
     {
-        class Porta
-        {
-            private bool aberta;
-            private string cor;
-
-            public Porta()
-            {
-                this.aberta = false;
-                this.cor = "branca";
-            }
-
-            public void abrir()
-            {
-                this.aberta = true;
-            }
-
-            public void fechar()
-            {
-                this.aberta = false;
-            }
-
-            public void pintar(string cor)
-            {
-                this.cor = cor;
-            }
-        }
         static void Main(string[] args)
         {
-
             Porta porta = new Porta();
 
             porta.abrir();
@@ -44,7 +17,6 @@ namespace porta
             porta.pintar("amarela");
             porta.pintar("azul");
             porta.pintar("vermelha");
-
             Console.ReadLine();
 
         }

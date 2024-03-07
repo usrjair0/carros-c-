@@ -7,7 +7,11 @@
       "RelativeMoniker": "D:0:0:{794C800D-505F-4CBB-B312-2EAA485CDC49}|porta\\porta.csproj|solutionrelative:porta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D069D0EC-9218-43DB-92B1-72640AE6FF5D}|Carro02\\Carro02.csproj|c:\\users\\user\\documents\\jn moura curso\\estruturas-classes\\carro02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{794C800D-505F-4CBB-B312-2EAA485CDC49}|porta\\porta.csproj|C:\\Users\\User\\Documents\\JN Moura curso\\Estruturas-classes\\porta\\portap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{794C800D-505F-4CBB-B312-2EAA485CDC49}|porta\\porta.csproj|solutionrelative:porta\\portap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D069D0EC-9218-43DB-92B1-72640AE6FF5D}|Carro02\\Carro02.csproj|C:\\Users\\User\\Documents\\JN Moura curso\\Estruturas-classes\\carro02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D069D0EC-9218-43DB-92B1-72640AE6FF5D}|Carro02\\Carro02.csproj|solutionrelative:carro02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -22,11 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "portap.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\JN Moura curso\\Estruturas-classes\\porta\\portap.cs",
+              "RelativeDocumentMoniker": "porta\\portap.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\JN Moura curso\\Estruturas-classes\\porta\\portap.cs",
+              "RelativeToolTip": "porta\\portap.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T14:16:54.073Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -36,14 +53,14 @@
               "RelativeDocumentMoniker": "porta\\Program.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\JN Moura curso\\Estruturas-classes\\porta\\Program.cs",
               "RelativeToolTip": "porta\\Program.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAYwDAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-07T13:59:15.305Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\JN Moura curso\\Estruturas-classes\\Carro02\\Program.cs",
               "RelativeDocumentMoniker": "Carro02\\Program.cs",
@@ -51,12 +68,11 @@
               "RelativeToolTip": "Carro02\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T13:53:58.995Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-06T13:53:58.995Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\JN Moura curso\\Estruturas-classes\\carro01\\Program.cs",
               "RelativeDocumentMoniker": "carro01\\Program.cs",

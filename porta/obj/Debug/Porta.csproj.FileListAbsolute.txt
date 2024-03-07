@@ -1,0 +1,15 @@
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Estruturas-Classes\Porta\bin\Debug\Porta.exe.config
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Estruturas-Classes\Porta\bin\Debug\Porta.exe
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Estruturas-Classes\Porta\bin\Debug\Porta.pdb
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Estruturas-Classes\Porta\obj\Debug\Porta.csproj.AssemblyReference.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Estruturas-Classes\Porta\obj\Debug\Porta.csproj.SuggestedBindingRedirects.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Estruturas-Classes\Porta\obj\Debug\Porta.csproj.CoreCompileInputs.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Estruturas-Classes\Porta\obj\Debug\Porta.exe
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Estruturas-Classes\Porta\obj\Debug\Porta.pdb
+C:\Users\User\Documents\JN Moura curso\Estruturas-classes\porta\bin\Debug\porta.exe.config
+C:\Users\User\Documents\JN Moura curso\Estruturas-classes\porta\bin\Debug\porta.exe
+C:\Users\User\Documents\JN Moura curso\Estruturas-classes\porta\bin\Debug\porta.pdb
+C:\Users\User\Documents\JN Moura curso\Estruturas-classes\porta\obj\Debug\porta.csproj.AssemblyReference.cache
+C:\Users\User\Documents\JN Moura curso\Estruturas-classes\porta\obj\Debug\porta.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\JN Moura curso\Estruturas-classes\porta\obj\Debug\porta.exe
+C:\Users\User\Documents\JN Moura curso\Estruturas-classes\porta\obj\Debug\porta.pdb
