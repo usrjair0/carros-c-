@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\JN Moura curso\\Estruturas-classes\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{794C800D-505F-4CBB-B312-2EAA485CDC49}|porta\\porta.csproj|c:\\users\\user\\documents\\jn moura curso\\estruturas-classes\\porta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{794C800D-505F-4CBB-B312-2EAA485CDC49}|porta\\porta.csproj|solutionrelative:porta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D069D0EC-9218-43DB-92B1-72640AE6FF5D}|Carro02\\Carro02.csproj|c:\\users\\user\\documents\\jn moura curso\\estruturas-classes\\carro02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D069D0EC-9218-43DB-92B1-72640AE6FF5D}|Carro02\\Carro02.csproj|solutionrelative:carro02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -28,18 +32,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\JN Moura curso\\Estruturas-classes\\porta\\Program.cs",
+              "RelativeDocumentMoniker": "porta\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\JN Moura curso\\Estruturas-classes\\porta\\Program.cs",
+              "RelativeToolTip": "porta\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T13:59:15.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\JN Moura curso\\Estruturas-classes\\Carro02\\Program.cs",
               "RelativeDocumentMoniker": "Carro02\\Program.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\JN Moura curso\\Estruturas-classes\\Carro02\\Program.cs",
               "RelativeToolTip": "Carro02\\Program.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAIwC4AAAAxAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-06T13:53:58.995Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\JN Moura curso\\Estruturas-classes\\carro01\\Program.cs",
               "RelativeDocumentMoniker": "carro01\\Program.cs",
@@ -47,8 +64,7 @@
               "RelativeToolTip": "carro01\\Program.cs",
               "ViewState": "AQIAABwAAAAAAAAAAAAYwFYAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T11:29:58.263Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-06T11:29:58.263Z"
             }
           ]
         }

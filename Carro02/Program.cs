@@ -8,11 +8,26 @@ namespace Carro02
 {
     class Carro 
     {
-        public double potencia;
-        public int numeroDePortas;
         private string cor;
         private string nome;
         private int velocidade;  //caso eu deixe como private eu não consigo acessar os meus métodos fora do escopo da classe
+        public int numeroDePortas { get; set; }
+        public double potencia { get; set; }
+
+        /*public int numeroDePortas 
+        {
+            get
+            {  
+                return thisnumeroDePortas; 
+            }
+
+            set
+            {
+                if (value > 4)
+                    throw new ArgumentException("número de portas inválidos");
+                this.numeroDePortas = value;
+            }
+        }*/
 
         public void acelerar() //método ou função, mas é mais chamado de método
         {
@@ -97,6 +112,8 @@ namespace Carro02
             carros[2] = carro2;
             carros[2].setNome("chevete");
             carro2.setNome("celtinha chiqueirinho");
+
+            Console.WriteLine($"{carro2.numeroDePortas}");
 
             carro2.acelerar();
             carro2.getVelocidade();
