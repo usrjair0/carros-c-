@@ -10,7 +10,8 @@ namespace Carro02
     {
         private string cor;
         private string nome;
-        private int velocidade;  //caso eu deixe como private eu não consigo acessar os meus métodos fora do escopo da classe
+//caso eu deixe como private eu não consigo acessar os meus métodos fora do escopo da classe
+        private int velocidade;  
         public int numeroDePortas { get; set; }
         public double potencia { get; set; }
 
@@ -110,6 +111,9 @@ namespace Carro02
             carros[2].setNome("fusca");
             carros[1].setNome(ferrari.getNome());
             carros[2] = carro2;
+            //Nessa parte o carro dentro da lista carros no indice 2 passa a ter o mesmo
+            //endereço de memória do objeto instanciado carros2. Logo ao setar o nome
+            //chevete em carros[2] eu mudo o nome do carro2.
             carros[2].setNome("chevete");
             carro2.setNome("celtinha chiqueirinho");
 
