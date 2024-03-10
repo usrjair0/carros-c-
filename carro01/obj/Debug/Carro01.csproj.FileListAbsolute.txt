@@ -6,3 +6,10 @@ D:\Cursos\moura\.net-angular-2024-turma06\projetos\Estruturas-Classes\Carro01\ob
 D:\Cursos\moura\.net-angular-2024-turma06\projetos\Estruturas-Classes\Carro01\obj\Debug\Carro01.csproj.CoreCompileInputs.cache
 D:\Cursos\moura\.net-angular-2024-turma06\projetos\Estruturas-Classes\Carro01\obj\Debug\Carro01.exe
 D:\Cursos\moura\.net-angular-2024-turma06\projetos\Estruturas-Classes\Carro01\obj\Debug\Carro01.pdb
+C:\Users\User\Documents\JN Moura curso\Estruturas-classes\carro01\bin\Debug\carro01.exe.config
+C:\Users\User\Documents\JN Moura curso\Estruturas-classes\carro01\bin\Debug\carro01.exe
+C:\Users\User\Documents\JN Moura curso\Estruturas-classes\carro01\bin\Debug\carro01.pdb
+C:\Users\User\Documents\JN Moura curso\Estruturas-classes\carro01\obj\Debug\carro01.csproj.AssemblyReference.cache
+C:\Users\User\Documents\JN Moura curso\Estruturas-classes\carro01\obj\Debug\carro01.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\JN Moura curso\Estruturas-classes\carro01\obj\Debug\carro01.exe
+C:\Users\User\Documents\JN Moura curso\Estruturas-classes\carro01\obj\Debug\carro01.pdb

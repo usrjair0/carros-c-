@@ -13,7 +13,6 @@ namespace carro01
         public string cor;
         public string nome;
         public int velocidade;
-        
 
         //Criação do construtor.
         //public Carro(double potencia, int numeroDePortas, string cor, string nome, int velocidade)
@@ -39,6 +38,7 @@ namespace carro01
     {
         static void Main(string[] args)
         {
+            //Módelo com variáveis
             #region variáveis
             double carro1Potencia = 1.4;
             int carro1NumeroDePortas = 2;
@@ -52,14 +52,15 @@ namespace carro01
 
             #endregion fimVariaveis
 
+            //módelo com listas
             #region Listas
             List<double> potencias = new List<double>();
             potencias.Add(1.4);
             potencias.Add(1.6);
 
             List<int> numeroDePortas = new List<int>();
-            potencias.Add(2);
-            potencias.Add(4);
+            numeroDePortas.Add(2);
+            numeroDePortas.Add(4);
 
             List<string> cores = new List<string>();
             cores.Add("branca");
@@ -71,7 +72,7 @@ namespace carro01
             #endregion fimListas
 
             #region Estrutura
-            //Após definir o tipo Carro
+
             //se eu definir o carro1 por completo eu posso dispensar o new Carro()
             Carro carro1;
             carro1.potencia = 1.4;
@@ -80,7 +81,9 @@ namespace carro01
             carro1.nome = "gol";
 
             //se eu definir o carro2 por completo eu posso dispensar o new Carro()
-            Carro carro2 = new Carro();
+            //Mesmo com o new Carro eu ainda continuo utilizando Carro na stack
+            //Nesse caso eu preciso do new Carro para poder invocar as funções.
+            Carro carro2 = new Carro(); 
             carro2.potencia = 1.6;
             carro2.numeroDePortas = 2;
             carro2.cor = "vermelho";
@@ -88,14 +91,8 @@ namespace carro01
             carro2.velocidade = 0;
             carro2.acelerar();
 
-            Carro carro3;
-
-            //A estrutura é um tipo por valor, não um tipo por referência.
-
-            //estrutura (struct é um tipo por valor)
-           
+            Carro carro3;  //A estrutura é um tipo por valor, não um tipo por referência.
             carro3 = carro2;
-
             carro3.nome = "fusca";
 
 
