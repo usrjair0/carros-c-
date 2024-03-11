@@ -11,6 +11,10 @@ namespace porta
         private bool aberta;
         private string cor;
 
+        public double Area { get; set; }
+
+
+
         public Porta()
         {
             this.aberta = false;
