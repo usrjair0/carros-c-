@@ -107,7 +107,7 @@ namespace Carro02
             }
 
             ferrari.setNome("Ferrari do zequinha");
-
+            ferrari.Cor = "Branco";
             carros[2].setNome("fusca");
             carros[1].setNome(ferrari.getNome());
             carros[2] = carro2;

@@ -8,9 +8,8 @@ namespace Jogo_de_tiro
 {
     internal class Armas
     {
-        public string NomeArma;
-
-
+        public String TipoArma { get; set; }
+        public int numeroArma;
 
         public Armas() 
         { 

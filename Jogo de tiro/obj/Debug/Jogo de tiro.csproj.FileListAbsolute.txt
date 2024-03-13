@@ -1,0 +1,7 @@
+C:\Users\User\Documents\JN Moura curso\Estruturas-classes\Jogo de tiro\bin\Debug\Jogo de tiro.exe.config
+C:\Users\User\Documents\JN Moura curso\Estruturas-classes\Jogo de tiro\bin\Debug\Jogo de tiro.exe
+C:\Users\User\Documents\JN Moura curso\Estruturas-classes\Jogo de tiro\bin\Debug\Jogo de tiro.pdb
+C:\Users\User\Documents\JN Moura curso\Estruturas-classes\Jogo de tiro\obj\Debug\Jogo de tiro.csproj.AssemblyReference.cache
+C:\Users\User\Documents\JN Moura curso\Estruturas-classes\Jogo de tiro\obj\Debug\Jogo de tiro.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\JN Moura curso\Estruturas-classes\Jogo de tiro\obj\Debug\Jogo de tiro.exe
+C:\Users\User\Documents\JN Moura curso\Estruturas-classes\Jogo de tiro\obj\Debug\Jogo de tiro.pdb

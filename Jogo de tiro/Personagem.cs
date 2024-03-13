@@ -1,17 +1,29 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Jogo_de_tiro
 {
     internal class Personagem
     {
-        public bool Policial { get; set; }
+        private string faccao;
+        public string Faccao {
+            get
+            {
+                return this.faccao;
+            }
+            set
+            {
+                if (value != "Terrorista" && value != "Contraterrorista")
+                    throw new ArgumentException("Escolha inválida.");
+                else
+                    this.faccao = value;   
+            }        
+        }
 
-        Personagem() { }
-
-
+        //Construtor
+        public Personagem() 
+        { 
+        
+        }
     }
+
 }
