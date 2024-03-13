@@ -10,12 +10,14 @@ namespace JogodeTiroProfessor
     {
         public string Nome { get; }
 
+        //Esse protected me permite usar tanto na classe Arma quanto na sua herança Arma de fogo
+        //protected int Dano { get; set; }
         public int Dano { get; set; }
 
         public Arma(string nome)
         {
             this.Nome = nome;
-            this.Dano = 0;
+            this.Dano = 1;
         }
 
     }

@@ -10,9 +10,16 @@ namespace JogodeTiroProfessor
     {
         static void Main(string[] args)
         {
-            Arma faca = new Arma("facax");
+            ArmaBranca faca = new ArmaBranca("facax");
 
-            ArmadeFogo pistola = new ArmadeFogo("pistolaX", 10);
+            //Foi utilizada a herança na construção
+            //ArmadeFogo pistola = new ArmadeFogo("pistolaX", 10);
+            //pistola.Dano = 5;
+
+            ArmadeFogo metralhadora = new ArmadeFogo("MetralhadoraJJ", 200);
+            metralhadora.Dano = 20;
+
+            ArmaExplosiva bomba = new ArmaExplosiva("Bombão", 10, 10);
         }
     }
 }

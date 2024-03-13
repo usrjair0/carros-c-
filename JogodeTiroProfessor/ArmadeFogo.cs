@@ -15,6 +15,7 @@ namespace JogodeTiroProfessor
             :base(nome)
         {
             this.AlcanceLinear = alcance;
+            this.Dano = 5;
         }
     }
 }
