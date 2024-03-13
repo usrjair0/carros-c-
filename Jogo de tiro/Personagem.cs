@@ -5,6 +5,7 @@ namespace Jogo_de_tiro
     internal class Personagem
     {
         private string faccao;
+
         public string Faccao {
             get
             {
@@ -19,10 +20,15 @@ namespace Jogo_de_tiro
             }        
         }
 
+        public Personagem()
+        {
+
+        }
+
         //Construtor
-        public Personagem() 
+        public Personagem(string Faccao) 
         { 
-        
+            this.faccao = Faccao;
         }
     }
 

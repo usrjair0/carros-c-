@@ -10,11 +10,8 @@ namespace Jogo_de_tiro
     {
         static void Main(string[] args)
         {
-            Personagem jogador = new Personagem();
-            jogador.Faccao = "Terrorista";
-
-
-
+            Personagem jogador = new Personagem("Terrorista");
+            jogador.Faccao = "Contraterrorista";
 
 
             Console.WriteLine("Pressione Enter para encerrar");
