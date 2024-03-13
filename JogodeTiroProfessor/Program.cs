@@ -20,6 +20,14 @@ namespace JogodeTiroProfessor
             metralhadora.Dano = 20;
 
             ArmaExplosiva bomba = new ArmaExplosiva("Bombão", 10, 10);
+
+            Console.WriteLine($"Número de armas: {Arma.getContador()}");
+
+
+            Personagem p1 = new Personagem();
+            p1.Nome = "Zequinha";
+            p1.Time = "Terrorista";
+            p1.adicionarInventario(faca);
         }
     }
 }

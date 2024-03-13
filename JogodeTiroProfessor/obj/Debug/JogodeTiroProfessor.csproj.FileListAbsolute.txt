@@ -1,0 +1,7 @@
+C:\Users\User\Documents\JN Moura curso\Estruturas-classes\JogodeTiroProfessor\bin\Debug\JogodeTiroProfessor.exe.config
+C:\Users\User\Documents\JN Moura curso\Estruturas-classes\JogodeTiroProfessor\bin\Debug\JogodeTiroProfessor.exe
+C:\Users\User\Documents\JN Moura curso\Estruturas-classes\JogodeTiroProfessor\bin\Debug\JogodeTiroProfessor.pdb
+C:\Users\User\Documents\JN Moura curso\Estruturas-classes\JogodeTiroProfessor\obj\Debug\JogodeTiroProfessor.csproj.AssemblyReference.cache
+C:\Users\User\Documents\JN Moura curso\Estruturas-classes\JogodeTiroProfessor\obj\Debug\JogodeTiroProfessor.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\JN Moura curso\Estruturas-classes\JogodeTiroProfessor\obj\Debug\JogodeTiroProfessor.exe
+C:\Users\User\Documents\JN Moura curso\Estruturas-classes\JogodeTiroProfessor\obj\Debug\JogodeTiroProfessor.pdb

@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace JogodeTiroProfessor
 {
-    internal class ArmaExplosiva:ArmadeFogo
+    internal sealed class ArmaExplosiva:ArmadeFogo
+        //Ela é meu ultimo nível de herança, ninguém pode usar ela 
     {
         public int RaioExplosao { get; }
 

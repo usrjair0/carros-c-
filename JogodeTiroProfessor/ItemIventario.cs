@@ -6,10 +6,8 @@ using System.Threading.Tasks;
 
 namespace JogodeTiroProfessor
 {
-    internal class ArmaBranca
+    internal interface ItemIventario
     {
-        public ArmaBranca(string nome)
-            :base(nome)
-        { }
+        
     }
 }

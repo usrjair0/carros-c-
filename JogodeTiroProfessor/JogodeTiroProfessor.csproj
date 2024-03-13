@@ -43,10 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Arma.cs" />
-    <Compile Include="ArmaBranca.cs" />
-    <Compile Include="ArmadeFogo.cs" />
-    <Compile Include="ArmaExplosiva.cs" />
+    <Compile Include="Acessorio.cs" />
+    <Compile Include="Armas\Arma.cs" />
+    <Compile Include="Armas\ArmaBranca.cs" />
+    <Compile Include="Armas\ArmadeFogo.cs" />
+    <Compile Include="Armas\ArmaExplosiva.cs" />
+    <Compile Include="ItemIventario.cs" />
+    <Compile Include="Personagem.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
