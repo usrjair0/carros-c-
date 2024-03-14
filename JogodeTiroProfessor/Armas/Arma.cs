@@ -19,7 +19,7 @@ namespace JogodeTiroProfessor
         //Estático é algo que pode mudar independente da referência.
         //Caso não usassemos isso, nosso contador não funcionaria da forma que gostariamos
         //O estatic fica fora da instancia da classe
-        //Ele é compartilhado entre instâncias, pois ele não pertence a cada instância
+        //Ele não é compartilhado entre instâncias, pois ele não pertence a cada instância
         //ele pertence a classe.
         public Arma(string nome)
         {

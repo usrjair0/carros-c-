@@ -1,0 +1,7 @@
+C:\Users\User\Documents\JN Moura curso\Estruturas-classes\carroLavajato\bin\Debug\carroLavajato.exe.config
+C:\Users\User\Documents\JN Moura curso\Estruturas-classes\carroLavajato\bin\Debug\carroLavajato.exe
+C:\Users\User\Documents\JN Moura curso\Estruturas-classes\carroLavajato\bin\Debug\carroLavajato.pdb
+C:\Users\User\Documents\JN Moura curso\Estruturas-classes\carroLavajato\obj\Debug\Lavajato.csproj.AssemblyReference.cache
+C:\Users\User\Documents\JN Moura curso\Estruturas-classes\carroLavajato\obj\Debug\Lavajato.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\JN Moura curso\Estruturas-classes\carroLavajato\obj\Debug\carroLavajato.exe
+C:\Users\User\Documents\JN Moura curso\Estruturas-classes\carroLavajato\obj\Debug\carroLavajato.pdb
