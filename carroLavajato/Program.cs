@@ -83,10 +83,6 @@ namespace Lavajato
 
             } while (!sair);
 
-
-
-
-
             Console.WriteLine("Pressione Enter para sair");
             Console.ReadLine();
         }
