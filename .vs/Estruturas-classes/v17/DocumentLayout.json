@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\JN Moura curso\\Estruturas-classes\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B013F771-BEE8-4DED-B224-4E26AD215DC2}|Prova2\\P2Q1Contas.csproj|c:\\users\\user\\documents\\jn moura curso\\estruturas-classes\\prova2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B013F771-BEE8-4DED-B224-4E26AD215DC2}|Prova2\\P2Q1Contas.csproj|solutionrelative:prova2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26989861-6C01-4593-8F91-23F0303D287A}|P2Q3 Interface\\P2Q3 Interface.csproj|c:\\users\\user\\documents\\jn moura curso\\estruturas-classes\\p2q3 interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26989861-6C01-4593-8F91-23F0303D287A}|P2Q3 Interface\\P2Q3 Interface.csproj|solutionrelative:p2q3 interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D6F369-08FE-4A58-8D62-9235451F8373}|P2Q2Escola\\P2Q2Escola.csproj|c:\\users\\user\\documents\\jn moura curso\\estruturas-classes\\p2q2escola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82D6F369-08FE-4A58-8D62-9235451F8373}|P2Q2Escola\\P2Q2Escola.csproj|solutionrelative:p2q2escola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\JN Moura curso\\Estruturas-classes\\P2Q3 Interface\\Program.cs",
+              "RelativeDocumentMoniker": "P2Q3 Interface\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\JN Moura curso\\Estruturas-classes\\P2Q3 Interface\\Program.cs",
+              "RelativeToolTip": "P2Q3 Interface\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAkwBwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T22:31:54.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\JN Moura curso\\Estruturas-classes\\Prova2\\Program.cs",
+              "RelativeDocumentMoniker": "Prova2\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\JN Moura curso\\Estruturas-classes\\Prova2\\Program.cs",
+              "RelativeToolTip": "Prova2\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAUwBYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T22:31:08.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\JN Moura curso\\Estruturas-classes\\P2Q2Escola\\Program.cs",
+              "RelativeDocumentMoniker": "P2Q2Escola\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\JN Moura curso\\Estruturas-classes\\P2Q2Escola\\Program.cs",
+              "RelativeToolTip": "P2Q2Escola\\Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAywCsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T14:43:15.01Z",
+              "EditorCaption": ""
             }
           ]
         }
