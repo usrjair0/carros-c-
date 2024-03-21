@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P2Q2Escola", "P2Q2Escola\P2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P2Q3 Interface", "P2Q3 Interface\P2Q3 Interface.csproj", "{26989861-6C01-4593-8F91-23F0303D287A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "consultorio", "consultorio\consultorio.csproj", "{A34AC2E2-2F8A-4B7C-8516-5D58AC935225}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -83,6 +85,10 @@ Global
 		{26989861-6C01-4593-8F91-23F0303D287A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26989861-6C01-4593-8F91-23F0303D287A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26989861-6C01-4593-8F91-23F0303D287A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A34AC2E2-2F8A-4B7C-8516-5D58AC935225}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A34AC2E2-2F8A-4B7C-8516-5D58AC935225}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A34AC2E2-2F8A-4B7C-8516-5D58AC935225}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A34AC2E2-2F8A-4B7C-8516-5D58AC935225}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

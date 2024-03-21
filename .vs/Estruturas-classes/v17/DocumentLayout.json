@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\JN Moura curso\\Estruturas-classes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B013F771-BEE8-4DED-B224-4E26AD215DC2}|Prova2\\P2Q1Contas.csproj|c:\\users\\user\\documents\\jn moura curso\\estruturas-classes\\prova2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B013F771-BEE8-4DED-B224-4E26AD215DC2}|Prova2\\P2Q1Contas.csproj|solutionrelative:prova2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A34AC2E2-2F8A-4B7C-8516-5D58AC935225}|consultorio\\consultorio.csproj|c:\\users\\user\\documents\\jn moura curso\\estruturas-classes\\consultorio\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A34AC2E2-2F8A-4B7C-8516-5D58AC935225}|consultorio\\consultorio.csproj|solutionrelative:consultorio\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26989861-6C01-4593-8F91-23F0303D287A}|P2Q3 Interface\\P2Q3 Interface.csproj|c:\\users\\user\\documents\\jn moura curso\\estruturas-classes\\p2q3 interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26989861-6C01-4593-8F91-23F0303D287A}|P2Q3 Interface\\P2Q3 Interface.csproj|solutionrelative:p2q3 interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A34AC2E2-2F8A-4B7C-8516-5D58AC935225}|consultorio\\consultorio.csproj|C:\\Users\\User\\Documents\\JN Moura curso\\Estruturas-classes\\consultorio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A34AC2E2-2F8A-4B7C-8516-5D58AC935225}|consultorio\\consultorio.csproj|solutionrelative:consultorio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82D6F369-08FE-4A58-8D62-9235451F8373}|P2Q2Escola\\P2Q2Escola.csproj|c:\\users\\user\\documents\\jn moura curso\\estruturas-classes\\p2q2escola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82D6F369-08FE-4A58-8D62-9235451F8373}|P2Q2Escola\\P2Q2Escola.csproj|solutionrelative:p2q2escola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A34AC2E2-2F8A-4B7C-8516-5D58AC935225}|consultorio\\consultorio.csproj|C:\\Users\\User\\Documents\\JN Moura curso\\Estruturas-classes\\consultorio\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A34AC2E2-2F8A-4B7C-8516-5D58AC935225}|consultorio\\consultorio.csproj|solutionrelative:consultorio\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34AC2E2-2F8A-4B7C-8516-5D58AC935225}|consultorio\\consultorio.csproj|C:\\Users\\User\\Documents\\JN Moura curso\\Estruturas-classes\\consultorio\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A34AC2E2-2F8A-4B7C-8516-5D58AC935225}|consultorio\\consultorio.csproj|solutionrelative:consultorio\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,42 +34,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\JN Moura curso\\Estruturas-classes\\P2Q3 Interface\\Program.cs",
-              "RelativeDocumentMoniker": "P2Q3 Interface\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\JN Moura curso\\Estruturas-classes\\P2Q3 Interface\\Program.cs",
-              "RelativeToolTip": "P2Q3 Interface\\Program.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAkwBwAAAAFAAAA",
+              "DocumentIndex": 3,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\JN Moura curso\\Estruturas-classes\\consultorio\\Paciente.cs",
+              "RelativeDocumentMoniker": "consultorio\\Paciente.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\JN Moura curso\\Estruturas-classes\\consultorio\\Paciente.cs",
+              "RelativeToolTip": "consultorio\\Paciente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T22:31:54.594Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\JN Moura curso\\Estruturas-classes\\Prova2\\Program.cs",
-              "RelativeDocumentMoniker": "Prova2\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\JN Moura curso\\Estruturas-classes\\Prova2\\Program.cs",
-              "RelativeToolTip": "Prova2\\Program.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAUwBYAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T22:31:08.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T13:46:33.112Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\JN Moura curso\\Estruturas-classes\\P2Q2Escola\\Program.cs",
-              "RelativeDocumentMoniker": "P2Q2Escola\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\JN Moura curso\\Estruturas-classes\\P2Q2Escola\\Program.cs",
-              "RelativeToolTip": "P2Q2Escola\\Program.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAywCsAAAAvAAAA",
+              "Title": "Medico.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\JN Moura curso\\Estruturas-classes\\consultorio\\Medico.cs",
+              "RelativeDocumentMoniker": "consultorio\\Medico.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\JN Moura curso\\Estruturas-classes\\consultorio\\Medico.cs",
+              "RelativeToolTip": "consultorio\\Medico.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T14:43:15.01Z",
+              "WhenOpened": "2024-03-20T13:46:25.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Consulta.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\JN Moura curso\\Estruturas-classes\\consultorio\\Consulta.cs",
+              "RelativeDocumentMoniker": "consultorio\\Consulta.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\JN Moura curso\\Estruturas-classes\\consultorio\\Consulta.cs",
+              "RelativeToolTip": "consultorio\\Consulta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T13:44:52.997Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\JN Moura curso\\Estruturas-classes\\consultorio\\Program.cs",
+              "RelativeDocumentMoniker": "consultorio\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\JN Moura curso\\Estruturas-classes\\consultorio\\Program.cs",
+              "RelativeToolTip": "consultorio\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T13:43:35.148Z"
             }
           ]
         }
