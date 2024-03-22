@@ -8,5 +8,13 @@ namespace consultorio
 {
     internal class Paciente
     {
+        public string Nome;
+        public int Codigo;
+        public string DataNascimento;
+
+        public Paciente(int codigo)
+        {
+            this.Codigo = codigo;
+        }
     }
 }

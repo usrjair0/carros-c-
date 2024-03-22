@@ -10,6 +10,7 @@ namespace consultorio
     {
         static void Main(string[] args)
         {
+            Paciente p1 = new Paciente(10);
         }
     }
 }
