@@ -11,13 +11,12 @@ namespace consultorio
         public int Codigo { get;}
         public DateTime DataHora { get; set; }
         public Medico Medico { get; set; }
-
         public Paciente Paciente { get; set; }
 
 
         public Consulta (int codigo)
         {
-            Codigo = codigo;
+            this.Codigo = codigo;
         }
     }
 }

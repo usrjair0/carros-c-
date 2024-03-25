@@ -10,7 +10,14 @@ namespace consultorio
     {
         public string Nome;
         public int Codigo;
-        public string DataNascimento;
+        public DateTime DataNascimento { get; set; }
+        public int Idade {
+            get
+            {
+                return DateTime.Now.Year - this.DataNascimento.Year; 
+                //Melhorar o cálculo da idade.
+            }        
+        }
 
         public Paciente(int codigo)
         {
