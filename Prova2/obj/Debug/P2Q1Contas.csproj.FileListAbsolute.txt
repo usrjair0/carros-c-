@@ -1,7 +1,0 @@
-C:\Users\User\Documents\JN Moura curso\Estruturas-classes\Prova2\bin\Debug\Prova2.exe.config
-C:\Users\User\Documents\JN Moura curso\Estruturas-classes\Prova2\bin\Debug\Prova2.exe
-C:\Users\User\Documents\JN Moura curso\Estruturas-classes\Prova2\bin\Debug\Prova2.pdb
-C:\Users\User\Documents\JN Moura curso\Estruturas-classes\Prova2\obj\Debug\P2Q1Contas.csproj.AssemblyReference.cache
-C:\Users\User\Documents\JN Moura curso\Estruturas-classes\Prova2\obj\Debug\P2Q1Contas.csproj.CoreCompileInputs.cache
-C:\Users\User\Documents\JN Moura curso\Estruturas-classes\Prova2\obj\Debug\Prova2.exe
-C:\Users\User\Documents\JN Moura curso\Estruturas-classes\Prova2\obj\Debug\Prova2.pdb
